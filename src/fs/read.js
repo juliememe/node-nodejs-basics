@@ -1,5 +1,5 @@
 import { readFile } from 'node:fs/promises';
-import {existsSync} from "node:fs";
+import { existsSync } from "node:fs";
 
 const read = async () => {
     // Write your code here
