@@ -1,5 +1,5 @@
-import {existsSync} from "node:fs";
-import {renameSync} from "fs";
+import { existsSync } from "node:fs";
+import { renameSync } from "fs";
 
 const rename = async () => {
     // Write your code here
